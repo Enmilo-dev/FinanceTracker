@@ -1,0 +1,18 @@
+# Build directories
+cmake-build-*/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Compiled files
+*.o
+*.exe
+FinanceTracker
+
+# Data files
+data/
+
+# OS
+.DS_Store
