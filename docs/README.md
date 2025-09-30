@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Enmilo-dev)
+- GitHub: [Enmilo](https://github.com/Enmilo-dev)
 - Email: your.email@example.com
 
 ---
